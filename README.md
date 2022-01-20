@@ -1,4 +1,4 @@
 # DoseTracker
 Dose Tracker: 
 
-A web application that is used to tracker your medicine and send you SMS text messages as a reminder.
+A web application used to track your medicine and send users SMS text messages as a reminder.
