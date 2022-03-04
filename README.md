@@ -9,4 +9,7 @@ Landing Page:
 Sign Up Modal:
 ![image](https://user-images.githubusercontent.com/97654382/156704725-414d1ba6-4c0c-4e91-ae2c-8b35e7ac3e3c.png)
 
+User Information Form:
+![image](https://user-images.githubusercontent.com/97654382/156704814-d4e96377-7dea-4a22-8642-2300d5baf8d5.png)
+
 
